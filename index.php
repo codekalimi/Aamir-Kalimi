@@ -22,7 +22,7 @@
                                             <div class="desc">
                                                 <h1>Hi! <br>I'm Jackson</h1>
                                                 <h2>100% html5 bootstrap templates Made by <a href="https://colorlib.com/" target="_blank">colorlib.com</a></h2>
-                                                <p><a class="btn btn-primary btn-learn">Download CV <i class="icon-download4"></i></a></p>
+                                                <p><a class="btn btn-primary btn-learn" href="https://drive.google.com/file/d/1luHL6grg5MQaPpS5_7MT1cob8Z5VVIgL/view?usp=sharing" target="_blank">Download CV <i class="icon-download4"></i></a></p>
                                             </div>
                                         </div>
                                     </div>

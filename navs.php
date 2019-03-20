@@ -13,8 +13,8 @@
         <aside id="colorlib-aside" role="complementary" class="border js-fullheight">
             <div class="text-center">
                 <div class="author-img" style="background-image: url(images/about.jpg);"></div>
-                <h1 id="colorlib-logo"><a href="index.html">Jackson Ford</a></h1>
-                <span class="position"><a href="#">UI/UX/Designer</a> in Philippines</span>
+                <h1 id="colorlib-logo"><a href="index.html">Aamir Kalimi</a></h1>
+                <span class="position">Working as a WEB DEVELOPER</span>
             </div>
             <nav id="colorlib-main-menu" role="navigation" class="navbar">
                 <div id="navbar" class="collapse">
